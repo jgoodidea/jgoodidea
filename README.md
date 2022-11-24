@@ -13,7 +13,7 @@ I am ***Ruby on Rails developer***
 
 ### About me
 
-- 👀 Currently I’m working on improving my skills and freelancing
+- 🌲 Currently I’m working on improving my skills and freelancing
 - 🌱 I am learning from open-source projects and best practices
 - 💞️ I am looking for a position to collaborate on ROR projects
 
