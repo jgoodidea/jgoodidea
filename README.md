@@ -6,7 +6,7 @@ I am ***Ruby on Rails developer***
 
 <p>
   <a href="mailto:goodrails@outlook.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rubymind/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yueming-dong-260338187/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
