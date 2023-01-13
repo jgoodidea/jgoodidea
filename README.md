@@ -25,7 +25,7 @@ Ruby on Rails | Spreecommerce | Django | React | Nuxt |
 
 VS Code | Git
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jgoodidea&show_icons=true&theme=gotham">
 </p>
 <p align="center">
@@ -33,7 +33,7 @@ VS Code | Git
 </p>
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoodidea&show_icons=true&theme=gotham">
-</p>
+</p> -->
 
 <!---
 jgoodidea/jgoodidea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
